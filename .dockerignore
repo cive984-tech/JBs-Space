@@ -1,0 +1,20 @@
+# Exclude the node_modules folder
+node_modules
+
+# Exclude log files
+*.log
+
+# Exclude temp files
+*.tmp
+
+# Exclude .DS_Store files (macOS)
+.DS_Store
+
+# Exclude coverage directory
+coverage/
+
+# Exclude build artifacts
+/build/
+
+# Exclude any other unnecessary files
+**/*~
