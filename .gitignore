@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# IDE files
+*.idea/
+*.vscode/
+
+# Logs
+*.log
+
+# Workspace files
+*.sublime-workspace
